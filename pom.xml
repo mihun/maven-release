@@ -6,7 +6,7 @@
     <groupId>com.mihun</groupId>
     <artifactId>maven-release</artifactId>
     <packaging>pom</packaging>
-    <version>${confluent.version}.1.1-SNAPSHOT</version>
+    <version>3.2.1.1.1-SNAPSHOT</version>
     <name>maven-release</name>
 
     <properties>
@@ -17,7 +17,7 @@
         <connection>scm:git:git@github.com:mihun/maven-release.git</connection>
         <developerConnection>scm:git:git@github.com:mihun/maven-release.git</developerConnection>
         <url>http://github.com/mihun/maven-release</url>
-        <tag>release/3</tag>
+        <tag>v.3.2.1.2.1</tag>
     </scm>
 
     <build>
