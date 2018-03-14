@@ -12,7 +12,7 @@
     <scm>
         <connection>scm:git:git@github.com:mihun/maven-release.git</connection>
         <developerConnection>scm:git:git@github.com:mihun/maven-release.git</developerConnection>
-        <url>https://github.com/mihun/maven-release</url>
+        <url>http://github.com/mihun/maven-release</url>
         <tag>v1.0.x</tag>
     </scm>
 
